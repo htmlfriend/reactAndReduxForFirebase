@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Todo/Todo.css","webpack://src/components/AddTodo/AddTodo.css"],"names":[],"mappings":"AAAA,MACC,oBAAqB,CACrB,YACD,CCHA,UACC,kBACD","file":"main.5fa52949.chunk.css","sourcesContent":[".todo {\n\tborder: 1px solid red;\n\tpadding: 10px;\n}\n",".add-todo {\n\tmargin-bottom: 30px;\n}\n"]}
